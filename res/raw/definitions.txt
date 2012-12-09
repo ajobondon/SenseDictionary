@@ -1,0 +1,1240 @@
+Where is the ...? - ... haana baina ve?
+Enter custom check - Gaaliin shalgaltand oroh
+Board enter ence paper - Hil nevtreh huudas
+Custom - Gaali
+Exchange - Valuit solikh
+Luggage - Achaa
+Policeman - Tsagdaa
+Telephone - Utas
+What is your purpose? - Yamar zorilgoor irsen be?
+Tourism - Juulchlal
+Business - Biznes
+To study - Suraltsah
+How many days you will stay? - Hed honoh ve?
+Day	- Udur
+I need a taxi - Taksi haij baina
+City taxi - Hotiin Taksi
+Hotel - Zochid buudal
+This address - Ene hayag
+High class hotel - Ondor zeregleliin buudal
+Cheap hotel - Hyamd buudal
+How much? - Hed ve?
+Tugrik - Togrog
+Kilometer - kilometer
+Please write how much? - Une holsiig bichne uu?
+Taximeter - Tooluur
+Looking for hotel - Buudal haij baina
+Single room - Neg hunii oroo
+Bathroom - Haluun usnii oroo
+Have you got any room? - Yamar negen oroo baina uu?
+Twice room - Hoyor hunii uruu
+Shower room - Shurshuur
+How much a day? - Neg honogt yamar unetei ve?
+Renting room - Hulsnii oroo
+Television - Zuragt
+Hello? - Baina uu?
+Hasn’t got any room	- Sul oroo baihgui
+Order - Zahialga	
+Where are you from?	- Yamar ulsaas irsen be?
+Which language do you speak? - Ta yamar heleer yaridag ve?
+Mongolia - Mongol uls
+Russia - Oros uls
+America - Amerik
+Cyrillic - Kirill useg
+Hello? - Sain baina uu?
+Mongolian - Mongol hun/Mongol hel
+Khalkh Mongolian - Halh Mongol hun
+Inner Mongolian - Ovor Mongol hun
+What script do use in Mongolian language? - Mongol helend yamar useg heregledeg ve?
+Buriad Mongolian language - Buriad Mongoliin hel
+China - Hyatad uls
+Mongolian script - Mongol useg
+How are you? - Yu baina daa?
+Nice to meet you? - Tantai uulzsandaa bayartai baina
+Fine, and you? - Sain, sain baina uu?
+Did you have good rest?	- Saihan amarsan uu?
+Good morning - Ugluunii mend 
+Good evening - Oroin mend
+Good night - Saikhan noirsooroi
+Let’s introduce each other?	- Za, taniltsaya?
+My name is ... - Minii ner ...
+What is your name?	- Tanii neriig hen gedeg ve?
+Thank you - Bayarlalaa
+Thank you very much	- Ih bayarlalaa
+Sorry - Uuchlaarai
+You are welcome	- Zugeer zugeer
+Ok 	- Za/bolno
+Yes	- Tiim/Za
+No	- Ugui/Bish
+I’m going now - Za, bi odoo yavlaa
+Bye bye	- Bayartai
+See you later - Daraa uulzaya
+See you tomorrow - Za, margaash uulzya
+Have a nice trip - Sain yavaarai
+Goodbye	- Sain suuj baigaarai
+Excuse me - Uuchlaarai
+I have a question - Tanias neg yum asuuya
+Brother - Ah
+Sister - Egch 
+Grandfather	- Ovoo
+Grandmother	- Emee
+My sister - Minii egch/duu(em)
+My brother - Miniin ah/duu(er)
+Waitress - Uilchlegch(em)
+Waiter - Uilchlegch(er)
+Driver - Jolooch
+You (Older than you) - Ta
+You (Younger than you) - Chi
+I am ... - Bi ... baina
+Are there ... - ... baigaa yu?
+Yes, she/he is here - Ter baigaa
+No she/he is not here - Ter baihgui
+Hey! - Hooe!
+Wait - Huleej bai
+Wait a moment, please - Tur huleene uu
+Don’t understand - Oilgosongui
+Understand - Oilgoloo
+Please speak slowly	- Udaan yarina uu?
+Please, write? - Bichij ogno uu?
+What are you doing?	- Yu hiij baina?
+May I take some pictures here? - End zurag avch boloh uu?
+What is the matter?	- Yasan be?
+Yes	- Bolno
+No - Bolohgui
+Where is the toilet? - Bie zasah gazar haana baina?
+Can you take a photo? - Zurag daraad ogooch?
+What is the news? - Sonin yu baina?
+My name is ... - Minii ner - .
+Father - Aav
+Mother - Eej
+Family - Am bul
+Friend - Naiz
+What is your work? - Yamar ajil hiideg ve?
+Tourism	- Juulchlal
+Work - Ajil
+Student	- Oyutan
+Worker - Ajilchin
+Teacher	- Bagsh
+Photographer - Zuragchin
+Drawer - Zuraach
+Doctor - Emch
+Herder - Malchin
+Director - Zahiral
+Not employed/no job - Ajilgui
+Married - Gerlesen
+Single - Gants bie
+Yes, I have child - Huuhedtei.
+Japanese - Yapon
+Chinese - Hyatad
+Russian	- Oros
+I come from ... - Bi ... aas irsen.
+French - Frants
+Korea - Solongos
+Great Britain - Ih Britain
+How old are you? - Heden nastai ve?
+Have you got any children?	- Huuhedtei yu?
+Are you married? - Ta gerlesen uu?
+I am ... years old - Bi ... nastai
+Beautiful nature - Saihan baigali
+Fresh air - Tsever agaar
+Broad steppes - Uudam taltai
+Pretty - Hoorhon
+Visit a ger	- Mongol gert zochloh
+Do you have a nice summer? - Saikhan zusaj baina uu?
+Please, enter the Ger - Gert morilno uu
+Tea with milk - Suutei tsai
+Can I take photo? - Zurag avch boloh uu?
+Nice picture - Saikhan zurag 
+Biscuits - Boortsog
+Do you want to drink airag?	- Ta airag uuh uu?
+Mare milk - Airag
+Dog - Nohoi
+Herding	- Mal hariulah
+Sheep - Honi
+Goat - Yamaa
+Horse - Mori
+Camel - Temee
+Cow - Uher
+I want to ride a horse - Bi mori unamaar baina
+I want to ride a camel - Bi temee unamaar baina
+I want to see to milk - Bi mal saahiig harmaar baina
+I want to see Slaughering - Honi gargahiig uzmeer baina
+I want to eat home food	- Bi geriin hool idmeer baina
+Any wolf this area?	- Ene havid chono baigaa yu?
+Yes, it has	- End baiga aa
+No, it has not - Baihgui
+I am going o toilet	- Noil orloo
+Sun	- Nar
+Moon - Sar
+Wolf - Chono
+Mountain - Uul
+Cloud - Uul
+Sky - Tenger
+Yak	- Sarlag
+What kind of trip program have?	- Yamar ayalaliin program baigaa ve?
+Steppe - Heer tal
+Horse trip - Mori unaj ayalah
+Camel trip - Temee unaj ayalah
+Hunting - An hiih
+Motorcycle trip	- Mototsikliin ayalal
+Guesting in ger	- Gert zochloh
+To dig out - Chuluujmal uhaj gargah
+Fishing - Zagaschlah
+To see stars - Od harah
+Pull - zaviar ayalah
+Air balloon	- Agaariin bombog
+Using by rent - Zeeleer heregleh
+Car	- Mashin
+Motorcycle - Mototsikl
+Bicycle	- Unadag dugui
+Trainer	- Dasgaljuulagch
+Guide - Khotoch
+Sport motorcycle - Sportiin mototsikl
+Fishing rod	- Zagasnii uurag
+To stay in ger - Gert khonoh
+Full stars - Ogtorgui duuren od
+Tent - Maikhan
+Safety jacket - Avrah huvtsas
+What is the total cost?	- Niitdee heden togrog ve?
+Could you give me receipt? - Mongonii barimt ogch boloh uu?
+I can ride horse - Bi mori unaj chadna.
+Can - Chadna
+Cannot - Chadahgui
+Almost can’t - Barag chadahgui
+Let’s ride this horse? - Ene moriig unya
+Gentle - Nomhon
+Harsh - Dogshin
+How to ride? - Yaj unah ve?
+Help - Tuslaach
+May I help?	- Tuslah uu?
+May I milking? - Mal saaj boloh uu?
+Difficult - Hetsuu
+Interesting	- Sonirholtoi
+How to make it?	- Yaj hiih ve?
+How to make better?	- Yaval deer ve?
+What kind of fish we can catch?	- End yamar zagas barij boloh ve?
+Taimen - Tul
+Funny - Hogjiltoi
+Nice - Saikhan
+I want to see Naadam - Bi naadam uzmeer baina
+Competition	- Temtseen
+Where is ... ? - ... gazar haana ve?
+Central stadium	- Tov tsengeldeh
+Market - Zah
+When start ...? - Heden tsagaas ehleh ve?
+Start at ... -	... tsagaas ehlene.
+Open ceremony - Neeltiin ajillagaa
+3 kinds of Naadam - Eriin gurvan naadam
+Wrestling - Boh barildah
+Horse riding - Mori uraldah
+Archering - Sur harvah
+Are you enjoying in the Naadam - Saihan naadaj baina uu?
+Seconder - Zasuul
+Which wrestler won?	- Yamar boh turuulsen be?
+Which horse won? - Yamar mori turuulsen be?
+Which team won?	- Yamar bag turuulsen be?
+Won	- Yalsan
+Lost - Yalagdsan
+Quickly	- Hurdan
+Slowly - Udaan
+Powerful - Huchirheg
+Not powerful - Huchgui
+Hit	- Baigaa onoh
+Not hit	- Baigaa onohgui baih
+Round - Davaa
+Last 4 - Shovog
+Last 2 - Uzuur turuu
+Second place - Uzuurleh
+First place	- Negdugeer bair
+Second place - Hoyordugaar  bair
+Third place	- Guravdugaar bair
+What kind of present give? - Yamar shagnal ogson be?
+Money - Mongo
+Archer - Harvaach
+How many km horse rasing? - Mori heden km uraldah ve?
+Where is the your mother land? - Tanii torson nutag haana ve?
+Uvs lake - Uvs nuur
+Altain mountain - Altain nuruu
+I want to go ...?	- ... ruu yavmaar baina
+I have been to ... -  ... ruu yavj uzsen.
+Darkhan city - Darhan hot
+Ulaanbaatar city - Ulaanbaatar hot
+Otgontenger mountain - Otgontenger uul
+Gandan temple - Gandan hiid 
+Hunting museum - An agnuuriin muzei
+Zanabazar museum - Zanabazariin muzei
+State central museum - Ulsiin tov muzei
+State historical museum	- Undesnii tuuhiin muzei
+Choijin lama museum - Choijin lamiin muzei
+Natsagdorj museum - Natsagdorjiin muzei
+Peace park - Nairamdal park
+Bogd Khan’s museum - Bogd haanii muzei
+Black market - Baraanii zah
+Food market	- Hunsnii zah
+Kharahorum market - Harhorin zah
+State department store - Ulsiin ih delguur
+Dalai eej market - Dalai eej zah
+International railway ticket office -Olon ulsiin galt teregnii tasalbar hudaldah gazar
+Circus - Tsirk
+Railway station	- Galt teregnii buudal
+Police office - Tsagdaagiin gazar
+Airport	Niseh - ongotsni buudal
+Bogd Khan’s museum - Bogd haanii museum
+Tuul river - Tuul gol
+Japan solders rip - Yapon tsergiin bulsh
+Sukhbaatar square - Suhbaatariin talbai
+Central post office - Tov shuudan
+Ambasador of Japan Yapoonii - elchin saidiin yam
+Blackmarket - Narantuul zah
+Opera theatre - Duuri bujgiin ulsiin akademik teatr
+Sport Palace - Sport ordon
+Museum of Ulaanbaatar city - Ulaanbaator hotiin muzei
+Central stadium	- Tov tsengeldeh hureelen
+Travelling around city - Hotoor yavah
+Restaurant - Restoran
+Souvenir shop - Beleg dursgaliin delguur
+Bank - Bank
+Post office - Shuudan
+Exchange center - Valuit solih tseg
+Book store - Nomin delguur
+Museum - Muzei
+Church - Sum
+Christian church - Hristiiin sum
+Buddha temple - Buddin hiid
+Hospital - Emneleg
+Ambassador - Elchin saidin yam
+Tourist information	- Ayalal juulchlaliin medeelel
+Toilet - Bie zasah gazar
+From ... - ... aas
+Many - Ih
+Near - Oir
+To ... - ... hurtel
+Far - Hol
+Go by ... - ... gaar yavaarai
+Can I walk?	- Yavganaar yavj boloh  uu?
+You can go - Yavj bolno
+Eat food - Hool ideh
+Something to buy - Yum hudaldaj avah
+Send a letter - Zahia yavuulah
+Take a ticket - Tasalbar avah
+Change money - Mongo solih
+Meet with friend - Naiztaigaa uulzah
+Hike - Zugaalah
+Drink alcohols - Arhi uuh
+Locates behind of street - Ene gudamjnii tsaad tald baina.
+Locates in front of street - Ene gudamjnii urd tald baina.
+Locates here of street - Ene gudamjnii end baina.
+Locates there of street - Ene gudamjnii tend baina.
+Locates corner of street - Ene gudamjnii buland baina.
+Locates turn of street - Ene gudamjnii ergelten deer baina.
+Locates in left street - Ene gudamjnii zuun tiishee baina
+Locates in right street - Ene gudamjnii baruun tiishee baina.
+Lost - Toorson
+Transportation - Teevriin heregsel
+Where are you want go? - Haashaa yavah ve?
+Go to ... - ... yavna
+Bus	- avtobus
+Plane - Ongots
+Where can I take ticket to ...?	- ... ruu yavah billet haanaas hudaldaj avah ve?
+Have you got ticket to ...? - ... ruu yavah billet baina uu?
+To order seat - Suudal zahialah
+Sold - Hudaldsan
+Have - Baina
+Have not - Baihgui
+Person - Hun
+Adult - Tom hun
+Children - Huuhed
+How many hours will you go to ...?	... hurtel heden tsag yavdag ve?
+Which bus I should take to ...?	... yavhad bi yamar avtobusand suuj boloh ve?
+Please, tell us when we reach to ...! -	... d ochmogts heleerei!
+Does we take off here?	- End buuh yum uu?
+Next station - Daraagiin buudal
+Please, go to ... - ... ruu yavaarai
+In left	- Zuun tiishee
+In right - Baruun tiishee
+Straight - Chigeeree
+How much for per kilometer?	- Km ni yamar unetei ve?
+Train - Gal tereg
+Ticket office - Tasalbar hudaldaalah gazar
+Where is the this seat?	- Ene suudal haana baina?
+Compartment	- Kupei
+This is my sit	- Ene minii suudal
+Standart - engiin	
+what is your hobby?	- Chinii sonirhol yu ve?
+Number - Too
+0 - teg
+1 - neg
+2 - hoyor
+3 - gurav
+4 - dorov
+5 - tav
+6 - zurgaa
+7 - doloo
+8 - naim
+9 - yos
+10 - arav
+11 - arvan neg
+12 - arvan hoyor
+13 - arvan gurav
+14 - arvan dorov
+15 - arvan tav
+16 - arvan zurgaa
+17 - arvan doloo
+18 - arvan naim
+19 - arvan eos
+20 - hori
+30 - guch
+40 - doch
+50 - tavi
+60 - jar
+70 - dal
+80 - naya
+90 - er
+100	- zuu
+101	- zuun neg  
+102	- zuun hoyor
+200	- hoyor zuu
+201	- hoyor zuun neg
+202	- hoyor zuun hoyor
+300	- gurvan zuu
+301/2…9 - gurvan zuun neg/hoyor…eos
+400	- dorvon zuu
+401/2…9	- dorvon zuun neg/hoyor…eos
+500	- tavan zuu
+501/2…9	- tavan zuun neg/hoyor… eos
+600	- zurgaan zuu
+601/2/…9 - zurgaan zuun neg/hoyor…eos
+700	- doloon zuu
+701/2…9	- doloon zuun neg/hoyor…eos
+800	- naiman zuu
+801/2/…9 - naiman zuun neg/hoyor…eos
+900	- eoson zuu
+901/2…9	- eoson zuun neg/hoyor…9
+1’000 - myanga
+2’000 - hoyor myanga
+3/4…9’000 - gurvan/dorvon…eoson myanga
+10’000 - arvan myanga
+11’000 - arvan negen myanga
+12/3…9’000 - arvan hoyor/gurvan…eoson myanga
+20’000 - horin myanga
+30/40…90 - guchin/dochin…eren myanga
+100’000	- zuun myanga
+1’000’000 - million
+1’000’000’000 - billion
+First - negdugeer
+Second - hoyordugaar
+Third - guravdugaar
+Fourth/fifth…nineth	- dorov/tav…eos+dugeer /tavdugaar/
+Cash - Belen mongo
+Cheque - Tolboriin chek
+Card - Tolboriin kart
+Change - Hariult
+Times - Udaa
+Cup	- Ayaga
+Days - Odruud
+Percentage - Huvi
+Quarterly - Guravnii neg
+3.5	- Gurav aravnii tav
+Half - Hagas
+Trade - Hudaldaa
+Excuse me - Urshuuguurei
+I am looking ... - Bi ... haij baina
+I want to buy ... - Bi ... avmaar baina
+Is this made in Mongolia? - Ene Mongold uildverlesen uu?
+I’m just interesting - Bi zugeer sonirhoj baina
+How much is it?	- Ymar unetei ve?
+Please give me cheaper?	- Hyamdruulj ogno uu?
+Cashmere - Nooluuran tsamts
+Carpets	- Hivs
+National dress - Undesnii huvtsas
+Picture	- Zurag
+Handmade - Urlaliiin zuil
+National hat - Undesnii malgai
+Supermarket	- Hunsnii zah
+Bread - talh
+Apple - alim
+Meat - mah
+Yoghurt	- tarag
+Cheese - byaslag
+Vodka - arhi
+Could you show me? - Uzuulehgui yu?
+I’ll buy this - Uuniig hudaldaj avya
+I’m not buying - Hudaldaj avahgui
+Drug shop - Emiin san
+National foods - Ulamjlalt dursgaliin baraa
+Antique	Ertnii - Ertnii edlel
+Duty free shop - Taksgui delguur
+Boot store - Gutliin delguur
+Book store - Nomiin delguur
+Jewelry shop - Goyol chimegleliin delguur
+Photo shop - Gerel zurgiin gazar
+Hairdressing - Uschin goo saihanii gazar
+Post office	- Shuudan
+Stamp - Mark
+Letter - Zahidal
+Phone card - Utasni kart
+Jewelry	- Goyol chimeglel
+Earring	- Eemeg
+Bracelet - Buguivch
+Ring - Bogj
+Pin	- Usnii zuult
+Crystal - Bolor
+Pearl - Suvd
+Brilliant - Almaz
+Gold - Alt
+Silver - Mongo
+White gold - Tsagaan alt
+Copper - Zes
+Have you got ...? - ... bii yu?
+T-shirt	- Podvolk
+Shirt - Tsamts
+Blouse - Nooson tsamts
+Jacket - Kurtik
+Trousers - Omd
+Skirt - Yubka
+Raincoat - Borooni tsuv
+Coat - Hurem
+Hat	- Malgai
+Socks - Oims
+Boots - Gutal
+Sport shoes	- Puuz
+Underwear - Dotuur huvtsas
+Breast - Hohnii daruulga
+Dress - Huvtsas, sarapan
+Mongolian national dress - deel	Deel
+Coatee - Hantaaz
+Belt - Bus
+Scarf - Alchuur, oroolt
+Silk - Torgo
+Wool - Noos
+Skin - Aris
+Sheep skin - Honinii aris
+May I try (clothes)? - Umsuj uzej boloh uu?
+Is it longer? - Arai urt baina uu?
+Is it bigger? - Arai tom baina uu?
+Is it suits? - Taarj baina uu?
+Is it smaller? - Arai bariu baina uu?
+Is it darker? - Arai baraan baina uu?
+Is it thin?	- Nimgen baina uu?
+Big - Tom
+Small - Jijig
+Thin - Nimgen
+Fat - Buduun
+Thick - Zuzaan
+Bright - Hurts tod
+Darker - Baraan
+Color - Ongo
+Dark blue - Hoh
+White - Tsagaan
+Black - Har
+Red - Ulaan
+Yellow - Shar
+Green - Nogoon
+Blue - Tsenher
+Pink - Yagaan 
+Orange - Ulbar shar
+Grey - Saaral
+Time - Tsag
+What time is it now? - Odoo tsag hed bolj baina ve?
+Morning	- Ogloo, udees omno
+Noon - Ud dund
+Afternoon - odor, Udees hoish
+Evening	- Oroi
+Night - Shono
+Call me at ... ! - ... tsagt duudaarai, zalgaarai
+Meet at ... ! - Tsagt uulzii!
+Leave at ... - Tsagt hodlono
+What time will reach to ...? -	... d heden tsagt ochih ve?
+How many hours will spend? - Her zereg tsag zartsuulah ve?
+No time! - Tsag baihgui
+Can we reach there by ...?	- ... tsagt amjih uu?
+We can make it	- Amjina
+We could not make it - amjihgui
+Breakfast - Ogloonii hool
+Lunch - Odriin hool
+Dinner - Oroin hool
+At ... o’clock	- ... tsagt
+Tea time - Tsainii tsag
+Minute	- minut
+7:30:00	- Doloon tsag guchin minut
+Hour - tsag
+From ... o’clock - ... tsagaas
+Until ... o’clock	- ... tsag hurtel
+Before ... o’clock - ... tsagaas omno
+After ... o’clock	- ... tsagaas hoish
+Date - Odor, sar,on
+When? - Hezee?
+What year? - Heden on?
+What day? - Hednii odor?
+Which day of the week? - Yamar garig ve?
+... year - ... on, jil
+... week - ... doloo honog
+... month - ... sar
+... day	- ... odor
+March 15 - Gurvan sariin arvan tavan
+When did you come here?	- End hezee irsen be?
+When will you back?	- Hezee butsah ve?
+How long will you stay here? - End her udaan baih ve?
+Happy birthday! - Torson odriin mend hurgey!
+How many? - Her zereg?
+How many days? - Heden odor?
+How many weeks?	- Heden doloo honog?
+How many months? - Heden sar?
+How many years?	- Heden jil?
+January - Negdugeer sar
+February - Hoyordugaar sar
+March - Guravdugaar sar
+April - Dorovdugeer sar
+May	- Tavdugaar sar
+June - Zuragdugaar sar
+July - Doldugaar sar
+August - Naimdugaar sar
+September - Eosdugeer sar
+October	- Aravdugaar sar
+November - Arvan negdugeer sar
+December - Arvan hoyordugaar sar
+Monday - Davaa garig
+Tuesday	- Myagmar garig
+Wednesday - Lhagva garig
+Thursday - Purev garig
+Friday - Baasan garig
+Saturday - Hagassain
+Sunday - Butensain
+Celebration - Bayariin odor
+... day ago - ... odriin omno
+Before yesterday - urjigdar
+Yesterday - Ochigdor
+Today - Onoodor
+Tomorrow - Margaash
+After tomorrow - Nogoodor
+... days later	- ... odriin daraa
+... month ago -  ...  sariin omno
+... year ago - ... jiliin omno
+Last month	- ... ongorson sar
+Last year - ongorson jil
+This month - ene sar
+This year - ene jil
+Next month - daraa sar
+Next year - daraa jil
+... month later - ... sariin daraa
+... year after - ... jiliin daraa
+Weather - Tsag agar
+Vacation - Amralt
+Spring - havar
+Summer - zun
+Autumn - Namar
+Winter - Ovol
+Winter preparation - Ovliin beltgel
+Back to land - Nutag butsah
+Lactation period - Maliin oroo oroh uliral
+Harvest	- Hadlan
+Mountain heap Naadam - Ovoonii naadam
+Autumn camp	- Namarjaa
+State revolution day - Uls tunhaglasnii bayariin odor
+Hot	- haluun
+Cool - seruun
+Cold - huiten
+A day before new year - Bituun
+Beginning of the new year - Shine onii ehen
+Mongolian new year - Tsagaan sar
+Happy new year! - Shine jiliin mend hurgeye/in December to January/
+Happy new year!  - Sar shinii mend hurgeye/in January or February/
+State constitution day - Undsen huuliin odor
+Mother and child’s day - Eh, ursiiin bayariind odor
+Spring camp	- Havarjaa
+To produce young - Mal tolloh
+Snow melt - tsas hailah
+To castrate - mal zasah
+Summer camp	- zunii zuslan
+To milk	- mal saah
+To take wool - maliin noos avah
+Clear sky - Tselmeg tenger
+Cloudy - Uulerheg
+Rain - Boroo
+Wind - Salhi
+Thunder	- Tsahilgaan
+Snow - Tsas
+Hail - Mondor
+National cultural - Ulamjlalt soyol urlag
+What is the meaning of the song? - Yamar utgatai duu ve?
+National instrument	- Undesnii hogjmiin zevseg
+Love song - Hairiin duu
+About hours song - Morinii tuhai duu
+About land song	- Nutgiin tuhai duu
+Friendship song	- Nohorloliin duu
+About mother song - Eejiin tuhai duu
+About father song - Aaviin tuhai duu
+The fur on the throat - Hoomii
+Long traditional song - Urtiin duu
+Short traditional song - Bogino duu
+Tsam dance - tsam
+I want to see ... - ... uzmeer baina
+National dance	- Undesnii hogjim
+Balet - Balet
+Circus - Tsirk
+Concert of pop rock	- Pop rock concert
+Photograph - Zurag
+Opera - Duuri
+Wrestling - Boh barildah
+National culture - Undesnii soyol
+Temple - Sum hiid
+Mongolian poem	- Mongol yaruu nairag
+Children’s hair ceremony - Huuhdiin daahi avah 
+Mountain  heap naadam - Ovoonii naadam
+Where can  I see it? - Haana ochvol uzej chadah ve?
+City stadium - Hotiin hureelen
+Theatre	- teatr
+Museum	- Muzei
+Cultural museum	- Dursleh urlagiin muzei
+Central stadium	- Tov tsengeldeh hureelen
+Disco - Disko
+May I take a ticket? - Bilet avch boloh uu?
+Finished - Duussan 
+What time start it?	- Heden tsagt ehleh ve?
+It starts at ... o’clock - ... tsagaas ehlene
+Very interesting - Mash sonirholtoi
+Very funny - Mash hogjiltei
+Very emotional - Ih setgel hodolgoson
+Hobby - Sonirhol
+Interesting ...	- ... sonirhodog
+I like ... - ... durtai
+Foreighner - Gadaad hun
+Singing - Duu duulah
+Drawing - Zurag zurah
+Photographing - Zurag avah
+Fishing - Zagaschilah
+Karaoke	- karaoke
+Play guitar	- Gitar togloh
+Using computer - Kompyuter heregleh
+Hiking - Zugaalah
+Music - Hogjim
+Read a book	- Nom unshih
+Eat a food - Hool ideh
+Cooking	- Hool hiih
+Tourism	- Juulchlal
+Picnic - Salhind garah
+Shopping - Delguur yavah
+Drinking - Arhi uuh
+Custom - Undesnii yos zanshil
+History	- Tuuh
+Culture	- Soyol
+Religion - Shashin
+Easy - amarhan
+Sport - sport
+Riding horse - Mori unah
+Archering - Sur harvah
+Play basketball	- Sags togloh
+Ping pong - Shireenii tennis
+Swimming - Usand seleh
+Billiard - Billiard
+Golf - Golif
+Football - Hol bombog
+Dancing	- Bujigleh
+Climbing - Uuland avirah
+I very good in ... - Bi ... ih sain.
+Play morin huur	- Morin huur togloh
+National dance - Ardiin bujig
+National song - Ardiin duu
+Poem reading - Uran unshih /shuleg unshih
+Play chess	- Shatar togloh
+Bad	- muu
+Not good at ... - ... sain bish
+Something to eat - Hoolond oroh
+Lunch time - Tsainii tsag
+Dinner - Oroin hool
+Hungry - Olsoj baina
+What food do you want? - Yamar hool idmeer baina ve?
+Do you know any good café for ...?	- ... aytaihan cafe haana baidgiig medeh yy?
+Mongolian food - Mongol hool
+Food - Hool
+Chinese food - Hyatad hool
+Europe food	- Evrop hool
+Japanese food - Yapoon hool
+Russian food - Oros hool
+Restaurant 	- Zoogiin gazar
+Fast food - Turgen hool
+How many people? - Heden hun be?
+... people/how many/ - ... hun
+I need ... - ... nadad heregtei 
+Menu - Hoolnii tses
+Like this food	- enentei ijil hool
+This - Uuniig
+Water - Us
+Chopstick - Savh
+Knife - Hutga
+Folk - Seree
+Delicious - Amttai
+A light snack - Hongon
+Little bit ... - ... Jaahan baina
+Salty - Shorvog
+Sweet - Chiherleg
+Bitter - Isgelen
+Not actually - Tiim bish
+Oily - Tostoi
+Sour - Gashuun
+Hot - Haluun
+To much - Heterhii
+Hard - Hatuu
+Soft - Zoolon
+No ... - ... bish
+Not tasty - Amt sul
+Too much - Ih
+Little - Baga
+Do you want to drink? - yum uumaar baina uu?
+Cheers!	- Eruul enhiin toloo!
+I will pay - Bi tolno
+Pay total - Hamtad ni tolno
+We will pay separately - Tus tusdaa tolno
+It was delicious! - Saihan amttai bailaa.
+What is the name of this food? - Ene yamar nertei hool ve?
+This is .... - Ene bol ....
+Dumpling - bansh
+Soup with flour	- Guriltai shol
+Sour cream - Tsotsgii
+Boiled meat	- Chanasan mah
+Boiled stomach - Chanasan gedes dotor
+Tea with dumpling - Banshtai tsai
+Soup with rolled meat - Huitsai
+Pie	gambir - sharvin
+Potato salad - Niislel salad
+Cucumber salad - Orgost hemhiin salad
+Salted cucumber	- Darsan orgost hemh
+Meat dish - Mahan zuush
+Dried milk - Aaruul
+Cheese - Byaslag
+Yellow cream - Shar tos
+White cream	- tsagaan tos
+Milk of tea	- Suutei tsai
+Biscuits - Boortsog
+What food is it? - Ene yamar hool ve?
+Boiled - Butsalsan
+Fried - Sharsan
+Steamed	- Jignesen
+I want to eat ... - Bi ... idmeer baina
+Rice - Budaa
+Flour - Guril
+Cutton - Honinii mah
+Beef - Uhriin mah
+Smoked fish	- Utsan zagas
+Chicken	- Tahianii mah
+Pork - Gahain mah
+Camel - Temeenii mah
+Egg	- Ondog
+Vegetable - Hunsnii nogoo
+Potato - Toms
+Carrot - Luuvan
+Cabbage - Baitsaa
+Onion - Songino
+Tomato - Ulaan looli
+Cucumber - Orgost hemh
+White carrot - Tsagaan luuvan
+Pepper - Chinjuu
+Mushroom - Moog
+Salt - Davs
+Soy	- Tsuu
+Russia soy - Oros tsuu
+Ketchup	- kechup
+Garlic - Sormis
+Red pepper - Ulaan chinjuu
+Sugar - Elsen chiher
+Soup - Shol
+Soft drink	- Undaa
+I want to drink ...  - Bi ... uumar baina
+Pure water - Tsever us
+Fruit juice	- Jimsnii undaa
+Cola - kola
+Milk of tea	- Suutei tsai
+Coffee - Kofe
+Tea	- Baihuu tsai
+Vodka - arhi
+Beer - Pivo
+White vodka	- Tsagaan arhi
+Whisky - Viski
+Wine - Vino
+Cocktail - Kokteil
+Snack for drink	- Arhinii daruulga
+Family	- Am bul
+Friends	- Naiz nohod
+Have  you got ...?	- ... baigaa yu?
+Yes, I have - Baigaa
+No, I haven’t - Baihgui
+How many ... have you got?	- ... hed baigaa ve?
+... person	 - ... hun
+Many - Olon
+Few	- Tsoohon
+Who is ...?	- ... hen be?
+This person	- Ene hun
+That person	- Ter hun
+I am - Bi
+You - Chi
+He - Ter eregtei
+She - Ter emegtei
+My - Minii
+Your - Chinii
+Your/older/	- Tanii
+His/her	- Tuunii
+... married - gerelsen
+To marry - Gerleh
+Divorsed - Salsan
+Family - Am bul
+I love my ... - Bi ...d ih hairtai
+Son	- Huu
+Daughter - Ohin
+Brotherhood	- Ah duu
+Sisterhood	- Egch duu
+Brother/older/ - Ah
+Brother/younger/ - duu
+Sister/younger/	- duu
+Sister/older/ - Egch
+Uncle - Nagats ah
+Ankle - Avga
+Aunt - Avga egch
+Aunt - Nagats egch
+Son/oldest/	- Uugan huu
+Daughter - Uugan ohin
+Nurse son - Zee huu
+Nurse girl - Zee ohin
+Second son - Hoyor dahi huu
+Second daughter	- Hoyor dahi ohin
+Nephew - Ach huu
+Niece - Ach ohin
+Parents	- Etseg, eh
+Friend	- Naiz
+Good friend	- Sain naiz
+Colleague - Hamt ajilladag hun
+Neighbour - Horsh
+Loved one - Hairtai hun
+Husband	- Nohor
+Wife - Ehner
+Children - Huuhed
+Baby - Nyalh huuhed
+I am a ...	- Bi ... hun
+You are ...	- Ta ... hun
+That is not ... person - Ter ... hun bish
+Good - Sain
+Brave - Zorigtoi
+Coward 	- Hulchigar
+Honest - Shudarga
+Lier - Hudalch
+Hard working - ajilsag
+Lazy - Zalhuu
+Generous - Oglogch
+Possessive - Haramch
+Rich - Bayan
+Poor - Yaduu
+Smart - Uhaalag
+Fool - Mangar
+Innocent - Tsailgan
+Aloof - Zojig
+Glad - Bayartai
+Angry - Uurtai
+Worried	- Sanaa zovson
+Exciting - Setgel hodolgomoor
+I’ m ... than you - Bi chamaas ...
+I’m not ... than you - Bi chamaas ... bish
+Neat - Hicheengui
+Moody - Olon zantai
+Friendly - Nohorsog
+Cold hearted - Huiten setgeltei
+Arty-crafty	- Gariin urtai
+Clumsy - Evselgui
+Modest - Nerelhuu
+Wayward	- Duraaraa
+Humble - Daruuhan
+Chatty - Amantsar
+Non corrosive - Baga iddeg
+Corrosive - idemhii
+Gentle - ieldeg
+Scary - aimar
+Sociable - Niitech
+Shy	- Ichimhii
+Stable - Tohitoi, tomootoi
+Skirt chaser - Huuhemseg
+Beautiful - Saihan
+Ugly - Tsarai muutai
+Careful	- Hyanuur
+Patience - Tevcheertei
+To get bored easily	- Uidamhai
+Body parts - Bieiin erhten
+Sickness - Ovchin
+To feel bad	- Bieiin baidal muu baina
+Have a cold	- Haniad hursen
+Temperature	- Haluuntai
+Lose appetite - Hool ideh sonirholgui
+Nausea - Buuljis hureh
+Dairrhoea - Guilgeh
+Languish - Bie hundred baina
+Dizzy - Tolgoi ergeh
+Cough - Haniah 
+Running nose - Nus goijih
+Spufy nose	- Hamar bituureh
+Sucere - Naitaah
+Get injured	- gemteeh
+Wrench - Uye multrah
+To swell - Havdah
+High temperature - Haluurah
+Cut	- Esgeh
+Bleed - Tsus aldah
+Fractures - Yas hugarah
+Chill - Jihuutseh
+Hang over - shartah
+Scorch - Tulegdeh
+Bited - hazuulah
+Did you take a medicine? - Em uusan uu?
+Could you deliver me to hospital? - Emnelegt hurgej ogooch
+Could you buy for me some medicine?	- Em avaad ogooch
+Could you call a doctor? -Emch duudaad ogooch
+Could you call emergency? - Turgen tuslamj duudaad ogooch
+Headache - Tolgoi ovdoh
+Grudge	- Horsoh
+Numb - Badairah
+Tingle - Chichimgneh
+Cheek - Hatsar
+Face - Nuur
+Head - tolgoi
+Eye	- nud
+Ear	- chih
+Nose - hamar
+For-chead - duh
+Neck - huzuu
+Throat - hooloi
+Elbow - tohoi
+Wrest - bugui
+Arm	- gar
+Finger - huruu
+Nail - hums
+Ham	- guya
+Knee - ovdog
+Shin - shilbe
+Ankle - shagai
+Foot - hol
+Muscle - bulchin
+Bone - yas
+Ass - bogs
+Back - nuruu
+Armpit - suga
+Swell - havan
+Navel - huis
+Stomach - gedes
+Chest - tseej
+Shoulder - mor
+Teeth - shud
+Tongue - hel
+Lips - uruul
+Mouth - am
+Hospital - Emneleg
+I am sick - Minii bie taaruu baina
+When you got sick? - Hezeenees ovdoj ehelsen be?
+Injection - taria
+Vein injection - dusal
+Roentgen - roentgen
+Operation - mes zasal
+Firstaid - anhnii tuslamj
+Diarrhoea - guilgeh
+Food poison	- Hoolnii hordlogo
+Astma - astam
+Efflorescence - tuuralt
+Anaemic	- tsus bagdalt
+Fractures - yas hugarah
+Allergy	- Harshil
+Herd allergy - Urgamliin harshil
+Pregnant - jiremsen
+Throat - hooloi
+Heart - zurh
+Lung - uushig
+Stomach	- hodood
+Belly - gedes
+Kidney	- boor
+Appen dicits - olgoi
+Bladder	- davsag
+Vessel - sudas
+You may go home	- Harij bolno oo
+You need to hospitalire	- Emnelegt hevteh heregtei
+Feel better	- Iluu deerdlee
+Can we continue the trip? - Ayalalaa urgeljluulj boloh uu?
+How long to recover? - Hezee edgereh bol?
+Diagnosiis - Onosh
+Medicine - em
+Traditional medicine - Ardiin em
+Europe medicine	- Evrop em
+Health insurance - eruul mendiin daatgal
+Medicine for cough - Haniadnii em
+Medicine for stomach - Hodoodnii em
+Refrigerant	- Haluunii em
+Antibiotic - Antivatek
+anaesthesia appease	- Ovchin namdaah em
+Plaster	- plaster
+Cotton - hovon
+Gaurel lint	- sharhnii lent
+Antiseptic - ariutgah bodis
+A day ... times	- odort ... udaa
+After meal - hoolnii daraa
+Complicate - zorchil
+No hot water - haluun us garahgui baina
+No water - usgui baina
+No light - gerelgui baina
+Is water off? - Us tasarsan uu?
+Is power off? - Tog tasarsan uu?
+Phone is not calling - Utas zalgagdahgui baina
+Forget a key in the room - Tulhuuree oroondoo martchihlaa
+Door not opening - Haalga ongoihgui baina
+Please give blanket? - Hooson buteeleg ogno uu?
+Please change bed sheets? - Or honjliin daavuu soliulmaar baina?
+Want to change the room	- Oroogoo soliulmaar baina
+Lost money	- Mongo alga bolchihson
+Please call to this number?	- Iishee utasdaj ogno uu?
+Help me	- Tuslaarai
+Thief - hulgaich
+Hurry - hurdlaarai
+Come in	- Naash ir
+Stolen 	- hulgaid aldchihlaa
+I lost ... - minii ... alga bolchihson
+Passport - passport
+Flight - ongotsnii bilet
+Luggage	- achaa
+Pick-pocket	- karmaanii hulgaich
+Bandit - Deeremchin
+Harsh/ off hand	- tanhai
+Call me police	- Tsagdaa duudaad ogooch
+Reicept of things which stolen - Hulgaid aldsan zuilsiin barimt
+Want to buy again ... - ... dahij avmar baina
+Embassy of ...	- Elchin saidiin yam
+Calm - taivshir
+Don’t worry	- Sanaa zovoltgui
+I am ok, thank you - zugeeree bayarlalaa
+Have many - Olon baidag
+Have you got ... in Mongolia? - Mongold ... baidag uu?
+Mouse - hulgana
+Cow	- uher
+Tiger - bar
+Rabbit - tuulai
+Dragon - luu
+Snack - mogoi
+Horse - mori
+Sheep - honi
+Monkey ape - mich
+Dog	- nohoi
+Pig	- gahai
+Herds/ 5 different/	- tavan hoshuu mal
+Goat - yamaa
+Did you see this one? - Uuniig uzsen uu?
+What is this? - Ene yu ve?
+Marmot - tarvaga
+Wolf - chono
+Bear - baavgai
+Fox	- uneg
+Elephant - zaan
+Deer - buga
+Donkey - iljig
+Cat	- muur
+Eagle - burged
+Lammergier - yol
+Crane - togoruu
+Peacock - togos
+Fish - zagas
+Taimen - tul
+Whale - halim
+Tortoise - yast melhii
+Worm - horhoi
+Fly	- yalaa
+Tiger - bar
+Grasshopper	- tsartsaa
+Cockroach - joom
+Ant	- shorgoolj
+Butterfly - erveehei
+Defection worms	- baasan horhoi
+Flower - tsetseg
+Tree - mod
+Leaf - navch
+Sakura - sakura
+Rose - sarnai
+Fruit - jimes
+Grass - ovs
+Edelanise - monhiin uul tsetseg
+Leek - gogod
+Grace in Gobi - humuul
+Mosquito - shumuul
+What? - Yu?
+Who? - Hen?
+Why? - Yagaad?
+Which? - Yamar, ali?
+When? - Hezee?
+Where? - Haana?
+How? - Yaj?
+Want ... - ... maar4
+Better to do ... - 	... san ni deer
+Better not to do ... - ... guin deer
+Ask	- asuuh
+Answer - hariulah
+Teach - zaah
+Study - surah
+Memorize - tseejleh
+Forget - martah
+Enter - oroh
+Exit - garah
+Start - ehleh
+Finish - duusah
+Walk - alhah
+Run	- guih
+Return - butsah
+See	- uzeh
+Speak - yarih
+Listen - sonsoh
+Make - hiih
+Looking - ereh
+Read - unshih
+Write - bichih
+Think - setgeh
+Seat - suuh
+Grow - osoh
+Understand - oilgoh
+Talk - yarih
+Find - oloh
+Lose - hayah
+Forward	- uragshlah
+Smile - ineemsegleh
+Cry	- uilah
+Angry - uurlah
+Explain	- tailbarlah
+Sleep - untah
+Wake up	- bosoh
+Work - ajilah
+Rest - amrah
+Use	- heregleh
+Wash - ugaah
+Open - neeh
+Close - haah
+Break - evdreh
+Stop - zogsoh
+Give - ogoh
+Borrow - zeeleh
+Contact	- holboo barih
+Cheap - hyamd
+Tall - ondor
+Long - urt
+Short - bogino
+Beautiful - hoorhon
+Awful - muuhai
+Free - cholootei
+Busy - zavgui
+Light - gegeeleg
+Happy - az jargaltai
+Smart - uhaalag
+Fast - hurdan
+Slow - udaan
+Hard - hatuu
+Right - zov /thing/
+Wrong - buruu
+Strong - huchtei
+Weak - huchgui
+New  - shine
+Old	huuchin/thing/ - hogshin/age/
+Clean - tseverch
+Dirty - bohir
+Polite - eildeg
+Cold hearted - huiten setgeltei
+Deep - gunzgii
+Shallow	- guehen
+Rare - hovor
+Sad - Gunig
+Shy	- ichmeer
