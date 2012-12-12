@@ -33,7 +33,7 @@ How much a day? - Neg honogt yamar unetei ve?
 Renting room - Hulsnii oroo
 Television - Zuragt
 Hello? - Baina uu?
-Hasn’t got any room	- Sul oroo baihgui
+Hasn't got any room	- Sul oroo baihgui
 Order - Zahialga	
 Where are you from?	- Yamar ulsaas irsen be?
 Which language do you speak? - Ta yamar heleer yaridag ve?
@@ -56,7 +56,7 @@ Did you have good rest?	- Saihan amarsan uu?
 Good morning - Ugluunii mend 
 Good evening - Oroin mend
 Good night - Saikhan noirsooroi
-Let’s introduce each other?	- Za, taniltsaya?
+Let's introduce each other?	- Za, taniltsaya?
 My name is ... - Minii ner ...
 What is your name?	- Tanii neriig hen gedeg ve?
 Thank you - Bayarlalaa
@@ -66,7 +66,7 @@ You are welcome	- Zugeer zugeer
 Ok 	- Za/bolno
 Yes	- Tiim/Za
 No	- Ugui/Bish
-I’m going now - Za, bi odoo yavlaa
+I'm going now - Za, bi odoo yavlaa
 Bye bye	- Bayartai
 See you later - Daraa uulzaya
 See you tomorrow - Za, margaash uulzya
@@ -92,7 +92,7 @@ No she/he is not here - Ter baihgui
 Hey! - Hooe!
 Wait - Huleej bai
 Wait a moment, please - Tur huleene uu
-Don’t understand - Oilgosongui
+Don't understand - Oilgosongui
 Understand - Oilgoloo
 Please speak slowly	- Udaan yarina uu?
 Please, write? - Bichij ogno uu?
@@ -200,8 +200,8 @@ Could you give me receipt? - Mongonii barimt ogch boloh uu?
 I can ride horse - Bi mori unaj chadna.
 Can - Chadna
 Cannot - Chadahgui
-Almost can’t - Barag chadahgui
-Let’s ride this horse? - Ene moriig unya
+Almost can't - Barag chadahgui
+Let's ride this horse? - Ene moriig unya
 Gentle - Nomhon
 Harsh - Dogshin
 How to ride? - Yaj unah ve?
@@ -268,7 +268,7 @@ State historical museum	- Undesnii tuuhiin muzei
 Choijin lama museum - Choijin lamiin muzei
 Natsagdorj museum - Natsagdorjiin muzei
 Peace park - Nairamdal park
-Bogd Khan’s museum - Bogd haanii muzei
+Bogd Khan's museum - Bogd haanii muzei
 Black market - Baraanii zah
 Food market	- Hunsnii zah
 Kharahorum market - Harhorin zah
@@ -279,7 +279,7 @@ Circus - Tsirk
 Railway station	- Galt teregnii buudal
 Police office - Tsagdaagiin gazar
 Airport	Niseh - ongotsni buudal
-Bogd Khan’s museum - Bogd haanii museum
+Bogd Khan's museum - Bogd haanii museum
 Tuul river - Tuul gol
 Japan solders rip - Yapon tsergiin bulsh
 Sukhbaatar square - Suhbaatariin talbai
@@ -397,34 +397,33 @@ Number - Too
 201	- hoyor zuun neg
 202	- hoyor zuun hoyor
 300	- gurvan zuu
-301/2…9 - gurvan zuun neg/hoyor…eos
+301/2-9 - gurvan zuun neg/hoyor-eos
 400	- dorvon zuu
-401/2…9	- dorvon zuun neg/hoyor…eos
+401/2-9	- dorvon zuun neg/hoyor-eos
 500	- tavan zuu
-501/2…9	- tavan zuun neg/hoyor… eos
+501/2-9	- tavan zuun neg/hoyor-eos
 600	- zurgaan zuu
-601/2/…9 - zurgaan zuun neg/hoyor…eos
+601/2/3-9 - zurgaan zuun neg/hoyor-eos
 700	- doloon zuu
-701/2…9	- doloon zuun neg/hoyor…eos
+701/2-9	- doloon zuun neg/hoyor-eos
 800	- naiman zuu
-801/2/…9 - naiman zuun neg/hoyor…eos
+801/2/3-9 - naiman zuun neg/hoyor-eos
 900	- eoson zuu
-901/2…9	- eoson zuun neg/hoyor…9
-1’000 - myanga
-2’000 - hoyor myanga
-3/4…9’000 - gurvan/dorvon…eoson myanga
-10’000 - arvan myanga
-11’000 - arvan negen myanga
-12/3…9’000 - arvan hoyor/gurvan…eoson myanga
-20’000 - horin myanga
-30/40…90 - guchin/dochin…eren myanga
-100’000	- zuun myanga
-1’000’000 - million
-1’000’000’000 - billion
+901/2-9	- eoson zuun neg/hoyor-9
+1000 - myanga
+2000 - hoyor myanga
+3/49000 - gurvan/dorvoneoson myanga
+10000 - arvan myanga
+11000 - arvan negen myanga
+12/39000 - arvan hoyor/gurvan-eoson myanga
+20000 - horin myanga
+30/40-90 - guchin/dochin-eren myanga
+100000	- zuun myanga
+1000000 - million
+1000000000 - billion
 First - negdugeer
 Second - hoyordugaar
 Third - guravdugaar
-Fourth/fifth…nineth	- dorov/tav…eos+dugeer /tavdugaar/
 Cash - Belen mongo
 Cheque - Tolboriin chek
 Card - Tolboriin kart
@@ -441,7 +440,7 @@ Excuse me - Urshuuguurei
 I am looking ... - Bi ... haij baina
 I want to buy ... - Bi ... avmaar baina
 Is this made in Mongolia? - Ene Mongold uildverlesen uu?
-I’m just interesting - Bi zugeer sonirhoj baina
+I'm just interesting - Bi zugeer sonirhoj baina
 How much is it?	- Ymar unetei ve?
 Please give me cheaper?	- Hyamdruulj ogno uu?
 Cashmere - Nooluuran tsamts
@@ -458,8 +457,8 @@ Yoghurt	- tarag
 Cheese - byaslag
 Vodka - arhi
 Could you show me? - Uzuulehgui yu?
-I’ll buy this - Uuniig hudaldaj avya
-I’m not buying - Hudaldaj avahgui
+I'll buy this - Uuniig hudaldaj avya
+I'm not buying - Hudaldaj avahgui
 Drug shop - Emiin san
 National foods - Ulamjlalt dursgaliin baraa
 Antique	Ertnii - Ertnii edlel
@@ -553,15 +552,15 @@ We could not make it - amjihgui
 Breakfast - Ogloonii hool
 Lunch - Odriin hool
 Dinner - Oroin hool
-At ... o’clock	- ... tsagt
+At ... o'clock	- ... tsagt
 Tea time - Tsainii tsag
 Minute	- minut
 7:30:00	- Doloon tsag guchin minut
 Hour - tsag
-From ... o’clock - ... tsagaas
-Until ... o’clock	- ... tsag hurtel
-Before ... o’clock - ... tsagaas omno
-After ... o’clock	- ... tsagaas hoish
+From ... o'clock - ... tsagaas
+Until ... o'clock	- ... tsag hurtel
+Before ... o'clock - ... tsagaas omno
+After ... o'clock	- ... tsagaas hoish
 Date - Odor, sar,on
 When? - Hezee?
 What year? - Heden on?
@@ -640,7 +639,7 @@ Mongolian new year - Tsagaan sar
 Happy new year! - Shine jiliin mend hurgeye/in December to January/
 Happy new year!  - Sar shinii mend hurgeye/in January or February/
 State constitution day - Undsen huuliin odor
-Mother and child’s day - Eh, ursiiin bayariind odor
+Mother and child's day - Eh, ursiiin bayariind odor
 Spring camp	- Havarjaa
 To produce young - Mal tolloh
 Snow melt - tsas hailah
@@ -679,7 +678,7 @@ Wrestling - Boh barildah
 National culture - Undesnii soyol
 Temple - Sum hiid
 Mongolian poem	- Mongol yaruu nairag
-Children’s hair ceremony - Huuhdiin daahi avah 
+Children's hair ceremony - Huuhdiin daahi avah 
 Mountain  heap naadam - Ovoonii naadam
 Where can  I see it? - Haana ochvol uzej chadah ve?
 City stadium - Hotiin hureelen
@@ -691,7 +690,7 @@ Disco - Disko
 May I take a ticket? - Bilet avch boloh uu?
 Finished - Duussan 
 What time start it?	- Heden tsagt ehleh ve?
-It starts at ... o’clock - ... tsagaas ehlene
+It starts at ... o'clock - ... tsagaas ehlene
 Very interesting - Mash sonirholtoi
 Very funny - Mash hogjiltei
 Very emotional - Ih setgel hodolgoson
@@ -744,7 +743,7 @@ Lunch time - Tsainii tsag
 Dinner - Oroin hool
 Hungry - Olsoj baina
 What food do you want? - Yamar hool idmeer baina ve?
-Do you know any good café for ...?	- ... aytaihan cafe haana baidgiig medeh yy?
+Do you know any good caffee for ...?	- ... aytaihan cafe haana baidgiig medeh yy?
 Mongolian food - Mongol hool
 Food - Hool
 Chinese food - Hyatad hool
@@ -857,7 +856,7 @@ Family	- Am bul
 Friends	- Naiz nohod
 Have  you got ...?	- ... baigaa yu?
 Yes, I have - Baigaa
-No, I haven’t - Baihgui
+No, I haven't - Baihgui
 How many ... have you got?	- ... hed baigaa ve?
 ... person	 - ... hun
 Many - Olon
@@ -930,8 +929,8 @@ Glad - Bayartai
 Angry - Uurtai
 Worried	- Sanaa zovson
 Exciting - Setgel hodolgomoor
-I’ m ... than you - Bi chamaas ...
-I’m not ... than you - Bi chamaas ... bish
+I'm ... than you - Bi chamaas ...
+I'm not ... than you - Bi chamaas ... bish
 Neat - Hicheengui
 Moody - Olon zantai
 Friendly - Nohorsog
@@ -1100,7 +1099,7 @@ Reicept of things which stolen - Hulgaid aldsan zuilsiin barimt
 Want to buy again ... - ... dahij avmar baina
 Embassy of ...	- Elchin saidiin yam
 Calm - taivshir
-Don’t worry	- Sanaa zovoltgui
+Don't worry	- Sanaa zovoltgui
 I am ok, thank you - zugeeree bayarlalaa
 Have many - Olon baidag
 Have you got ... in Mongolia? - Mongold ... baidag uu?
@@ -1238,3 +1237,4 @@ Shallow	- guehen
 Rare - hovor
 Sad - Gunig
 Shy	- ichmeer
+Love - Hair
